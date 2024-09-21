@@ -18,8 +18,6 @@ Before you begin, ensure you have the following installed:
 
 ## Getting Started
 
-Follow these steps to get the Fintopio Automation Tool up and running:
-
 1. **Clone the repository**
 
    ```bash
@@ -53,10 +51,6 @@ Follow these steps to get the Fintopio Automation Tool up and running:
    ```bash
    node main.js
    ```
-
-5. **Enjoy the show!**
-
-   Sit back and watch as the tool manages your Fintopio accounts with colorful, informative output in your console.
 
 ## Understanding the Colors
 
