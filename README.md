@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/0xmugi/fintopiobot.git
-   cd Fintopio-BOT
+   cd fintopiobot
    ```
 
 2. **Install dependencies**
