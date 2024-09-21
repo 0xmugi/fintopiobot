@@ -63,7 +63,7 @@ The tool uses a variety of colors to make the output easy to read:
 - 🟣 Magenta: Highlighted information
 - 🟠 Cyan: Balance information
 
-## ⚠️ Important Notes
+## Important Notes
 
 - Keep your `data.txt` file secure and never share it with others.
 - This tool is for educational purposes only. Use it responsibly and in accordance with Fintopio's terms of service.
