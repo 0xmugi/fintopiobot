@@ -14,10 +14,7 @@ function displayBanner() {
     `${colors.bannerBorder}===============================================${colors.reset}`
   );
   console.log(
-    `${colors.bannerLinks}GitHub  : https://github.com/Galkurta${colors.reset}`
-  );
-  console.log(
-    `${colors.bannerLinks}Telegram: https://t.me/galkurtarchive${colors.reset}`
+    `${colors.bannerLinks}GitHub  : https://github.com/0xmugi${colors.reset}`
   );
   console.log(
     `${colors.bannerBorder}===============================================\n${colors.reset}`
